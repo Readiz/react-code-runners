@@ -1,6 +1,9 @@
 # React Code Runners
 
-브라우저에서 C++와 Python 코드를 실행할 수 있는 React 컴포넌트
+이 프로젝트는 `serverless-judge`를 개발하신 @byeongkeunahn 님의 `wasm` 코드 기반으로 만들어졌습니다.
+  - serverless-judge: https://github.com/byeongkeunahn/serverless-judge/
+
+브라우저에서 C++와 Python 코드를 실행할 수 있는 React 컴포넌트입니다.
 
 ## 설치
 
